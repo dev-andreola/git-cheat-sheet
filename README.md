@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-<img src="assets/gitcs-main-header" align="center"/>
+<img src="assets/gitcs-main-header.jpg" align="center"/>
 
 Useful information about Git I have organized for reference.
 
