@@ -1,3 +1,7 @@
+<img src="assets/gitcs-main-header.jpg" align="center"/>
+
+<br>
+
 # Installing Git
 
 Before you start using Git, you have to download it to your computer.
